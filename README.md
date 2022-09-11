@@ -1,1 +1,1 @@
-This branch contains html files to generate gihub pages
+This branch contains html files to generate github pages
